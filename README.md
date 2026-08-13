@@ -1,10 +1,10 @@
-SAR-Optical-Fusion-Water-Body-Segmentation
+**SAR-Optical-Fusion-Water-Body-Segmentation**
 
 Deep learning pipeline for water body segmentation from satellite imagery, culminating in a dual-encoder transformer model that fuses Sentinel-1 SAR and Sentinel-2 optical data. SAR imagery penetrates cloud cover, while optical imagery provides rich spectral detail — combining the two improves water detection accuracy over either modality alone.
 
-Developed as part of a research internship at NIT Raipur, supervised by Prof. (Dr.) Dilip Singh Sisodia and mentored by Dr. Rikhi Ram Jagat. This repository documents the full progression of the project, from early single-image experiments through to the final fusion architecture.
+This repository documents the full progression of the project, from early single-image experiments through to the final fusion architecture.
 
-Project Structure
+**Project Structure**
 
 1. Sentinel-2C Analysis Image
 
