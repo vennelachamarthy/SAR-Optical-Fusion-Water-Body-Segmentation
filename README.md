@@ -43,14 +43,18 @@ Model Checkpoints
 Checkpoints are excluded from this repository due to file size. Available via Google Drive:
 
 CNN baseline: \[link]
+
 UNet baseline: \[link]
+
 DualSegFormer (final fusion model): \[link]
 
 Inference
+
 Qualitative inference with the final fusion model was run on two real-world Indian river basin regions using Google Earth Engine imagery:
 Mahanadi Basin (Chhattisgarh/Odisha)
 Tungabhadra Reservoir (Karnataka)
 
 Notes
+
 Raw satellite imagery (`.tif` files) is excluded from version control; source data can be regenerated via Google Earth Engine.
 This repository is structured to show the full development history of the project — from initial single-scene optical experiments to the final SAR-optical fusion model — rather than only the final result.
