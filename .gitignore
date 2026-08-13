@@ -1,0 +1,6 @@
+*.pth
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.tif
+*.jp2
