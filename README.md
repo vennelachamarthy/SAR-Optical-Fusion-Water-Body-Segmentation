@@ -54,9 +54,9 @@ Model Checkpoints
 
 Checkpoints are excluded from this repository due to file size. Available via Google Drive:
 
-CNN baseline: \[link]
+CNN baseline: \[[link](https://drive.google.com/file/d/1_zJya_K_-6-pkzukNRJjzl2fXIJ-WlGB/view?usp=drive_link)]
 
-UNet baseline: \[link]
+UNet baseline: \[[link](https://drive.google.com/file/d/1yqnl6B_XFieMg_aU-34C0sZNcUnlM3Xy/view?usp=drive_link)]
 
 DualSegFormer (final fusion model): \[link]
 
